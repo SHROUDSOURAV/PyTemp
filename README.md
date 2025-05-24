@@ -18,11 +18,14 @@ PyTemp is a lightweight Python script designed to retrieve the current temperatu
 pip install requests python-dotenv
 ```
 
-📝 Create an account on OpenWeatherMap to get your free API key.
+📝 Create an account on OpenWeatherMap to get your free API key.<br>
 📁 Set up your .env file in the project root:
 env
 ```bash
 API_KEY=your_openweathermap_api_key_here
 ```
+- Add your own API_KEY in the .env folder
+- Generate your own API_KEY from the OpenWeatherApp Website (Current Weather Data API) section.
+
 
 🧪 Run the program and enter the city name when prompted.
