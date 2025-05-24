@@ -2,6 +2,11 @@
 🐍 Python Program to Fetch Real-Time Weather Data
 PyTemp is a lightweight Python script designed to retrieve the current temperature of any city using the OpenWeatherMap API.
 
+### 📚 About
+
+This project was created as part of my learning journey in Python and API integration. The code and logic are based on [Dave Gray's Python Course for Beginners](https://youtu.be/H2EJuAcrZYU?si=zat3Zu1p-tzgg9mk), which provided clear explanations and hands-on examples.
+
+
 🚀 Features
 🌍 Get real-time temperature of any city in the world.
 
