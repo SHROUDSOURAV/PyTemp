@@ -26,8 +26,3 @@ API_KEY=your_openweathermap_api_key_here
 ```
 
 🧪 Run the program and enter the city name when prompted.
-🔍 Example Output
-```bash
-Enter the city name: London
-The temperature in London is 18.42°C
-```
